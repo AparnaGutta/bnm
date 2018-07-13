@@ -11,6 +11,12 @@ public class Class
 		System.out.println("HI");
 	}
 	
+	@Test
+	public void m2()
+	{
+		System.out.println("hello");
+	}
+	
 	
 	
 }
